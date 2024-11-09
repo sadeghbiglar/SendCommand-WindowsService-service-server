@@ -1,0 +1,7 @@
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\bin\Debug\CmdClient.exe.config
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\bin\Debug\CmdClient.exe
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\bin\Debug\CmdClient.pdb
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\obj\Debug\CmdClient.csproj.AssemblyReference.cache
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\obj\Debug\CmdClient.csproj.CoreCompileInputs.cache
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\obj\Debug\CmdClient.exe
+C:\Users\sadeghbiglar\Desktop\c#\service\CmdClient\CmdClient\obj\Debug\CmdClient.pdb
